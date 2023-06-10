@@ -10,7 +10,7 @@
   <a href="https://github.com/LeBazarDeBryan/Androker/releases/latest"><img src="https://img.shields.io/github/release/LeBazarDeBryan/Androker?color=00aaff&style=flat&label=Version" /></a>
   <a href="https://github.com/LeBazarDeBryan/Androker/releases/latest/download/Androker.zip"><img src="https://img.shields.io/github/downloads/LeBazarDeBryan/Androker/total.svg?color=00aaff&style=flat" /></a>
   
-  <p><strong><em>~ 93 Ko</em></strong></p>
+  <p><strong><em>~ 1 Ko</em></strong></p>
 </div>
 
 #
