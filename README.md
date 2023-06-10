@@ -16,7 +16,7 @@
 #
 
 <h3>C'est quoi Androker ?</h3>
-<p>Androker est un dossier qui regroupe plein de petits logiciels (.apk ou des raccourcis (lien)) qui permet d'améliorer Android.</p>
+<p>Androker est un dossier qui regroupe plein de petite application (.apk ou des raccourcis (lien)) qui permet d'améliorer Android.</p>
 
 <h3>D'où vient le nom Androker ?</h3>
 <p>Androker est un mix de Android et Tweaker.</p>
