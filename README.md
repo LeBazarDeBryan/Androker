@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Androker</h1>
-  <img src="logo.png" height="350" width="650" />
+  <img src="logo.png" height="350" width="350" />
   <p>Améliorer votre Android</p>
   
   <a href="https://github.com/LeBazarDeBryan/Androker/stargazers"><img src="https://img.shields.io/github/stars/LeBazarDeBryan/Androker?color=00aaff&style=flat&label=%C3%89toile" /></a>
