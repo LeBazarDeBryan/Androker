@@ -27,10 +27,15 @@
 #
 
 <div align="center">
-<h2>Recommandation</h2>
-
-  | Logiciel | Description | Version |
-  |----------|--------------|---------|
-  | <a href="https://adaway.org/">AdAway</a> | Bloquer les publicités | <a href="https://github.com/builtbybel/bloatbox/releases/latest/download/bloatbox.zip"><img src="https://img.shields.io/github/release/AdAway/AdAway.svg?style=flat&label=" /></a> |
+  <h2>Applications</h2>
+  
+  | Nom | Description | Version |
+  |-----|-------------|---------|
+  | <a href="https://adaway.org/">AdAway</a> | Bloquer les publicités | <a href="https://f-droid.org/packages/org.adaway/"><img src="https://img.shields.io/github/release/AdAway/AdAway.svg?style=flat&label=" /></a> |
+  | <a href="">Avast Cleanup</a> | Nettoyeur | <a href="https://play.google.com/store/apps/details?id=com.avast.android.cleaner">???</a> |
+  | <a href="https://f-droid.org">F-Droid</a> | Magasin d'applications libres | <a href="https://f-droid.org/F-Droid.apk">???</a> |
+  | <a href="">QKSMS</a> | Messagerie | <a href="https://f-droid.org/packages/com.moez.QKSMS/"><img src="https://img.shields.io/github/release/moezbhatti/qksms.svg?style=flat&label=" /></a> |
+  | <a href="">SaverTuner</a> | Économiseur de batterie | <a href="https://f-droid.org/packages/s1m.savertuner/">???</a> |
+  | <a href="">SD Maid</a> | Nettoyeur | <a href="https://play.google.com/store/apps/details?id=eu.thedarken.sdm">???</a> |
 
 </div>
