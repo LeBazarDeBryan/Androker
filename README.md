@@ -8,7 +8,7 @@
   <a href="https://github.com/LeBazarDeBryan/Androker/watchers"><img src="https://img.shields.io/github/watchers/LeBazarDeBryan/Androker?color=00aaff&style=flat&label=Watchers" /></a>
   <a href="https://github.com/LeBazarDeBryan/Androker/issues"><img src="https://img.shields.io/github/issues/LeBazarDeBryan/Androker?color=00aaff&style=flat&label=Issues" /></a>
   <a href="https://github.com/LeBazarDeBryan/Androker/releases/latest"><img src="https://img.shields.io/github/release/LeBazarDeBryan/Androker?color=00aaff&style=flat&label=Version" /></a>
-  <a href="https://github.com/LeBazarDeBryan/Androker/releases/latest/download/Androker.zip"><img src="https://img.shields.io/github/downloads/LeBazarDeBryan/Androker/total.svg?color=00aaff&style=flat" /></a>
+  <a href="https://github.com/LeBazarDeBryan/Androker/releases/latest/download/Androker.zip"><img src="https://img.shields.io/github/downloads/LeBazarDeBryan/Androker/total.svg?color=00aaff&style=flat&label=Telechargement" /></a>
   
   <p><strong><em>~ 20 Ko</em></strong></p>
 </div>
